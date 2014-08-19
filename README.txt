@@ -13,3 +13,5 @@ mvn archetype:generate \
 测试 mvn test
 
 清空并运行 mvn clean tomcat:run
+
+查找Maven仓库 http://mvnrepository.com/
